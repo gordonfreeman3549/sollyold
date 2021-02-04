@@ -1,0 +1,7 @@
+$nomention
+$title[Rock, Paper, Scissors!]
+$description[You selected $message - DemomanBot chose
+$randomText[Rock;Paper;Scissors!].]
+$footer[Execute the command `d-rosa` to send bugs or insults.]
+$botTyping
+$addCmdReactions[<:command_successfully_executed:797472908678922280>] $onlyIf[$message!=;<:command_is_missing_argument:797421463246209064> Command is missing an argument. `d-rps Rock/Paper/Scissors`]
