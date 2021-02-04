@@ -1,0 +1,7 @@
+$nomention 
+$title[$message's Profile picture]
+$color[00FFFF]$image[$userAvatar[$mentioned[>]]]
+$footer[Execute the command `d-bug` to send bugs or insults.]
+$onlyIf[$message!=;demoOS ERROR
+Reason:You didn't mention anyone
+Example:d-av @your mom]
