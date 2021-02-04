@@ -1,0 +1,8 @@
+$nomention
+$title[TF2 Simulator] 
+$color[00FFFF]
+$description[<a:command_loading:797548175627124737> Generating...]
+$editIn[1s;$randomText[Scout;Soldier;Pyro;Demoman;Heavy;Engineer;Medic;Sniper;Spy;Miss Pauling;myg0t;Blutarch;Redmond;Gray;Administrator;Saxton;Scout's Mother;Bronislava;Zhanna;Yana] $randomText[killed;hung;fragged;trapped;blew up;random critted;mini critted;b-hopped over;didn't care about;backstabbed;headshotted;ended the killstreak of;pushed;gave money to; made Rule 34 about;are friends with;is watching;is helping;watches R34 about;Changed class to;is disguised as;is drunk with;is accessing console with;makes e621.net art about;is watching e621.net art about;is watching porn with;decapitated;penetrated;is a Redditor with;smashed;is sleeping with;is talking with;dominated;got revenge from] $randomText[Spy;Sniper;Medic;Engineer;Heavy;Demoman;Pyro;Soldier;Scout;themselves...;Miss Pauling;myg0t;Blutarch;Redmond;Gray;Administrator;Saxton;Scout's Mother;Bronislava;Zhanna;Yana].]
+$footer[Execute the command `d-bug` to send bugs or insults.]
+
+$cooldown[5s;Getting some data from the server...Will take less then 5 seconds]
