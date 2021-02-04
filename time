@@ -1,0 +1,6 @@
+$nomention
+```The time is: $hour:$minute:$second [UTC]
+$month-$day-$year
+Below this message is an embed with your timezone```
+$addTimestamp
+$addCmdReactions[<:command_successfully_executed:797472908678922280>]
