@@ -1,0 +1,8 @@
+$nomention
+$color[$random[111111;999999]]
+$description[$username[$mentioned[1;yes]] received a shoot!]
+$image[https://api.no-api-key.com/api/v2/shoot?image=$userAvatar[$mentioned[1;yes]]]
+$footer[Execute the command `d-bug` to send bugs or insults.]
+$onlyIf[$message!=;demoOS ERROR
+Reason:You didn't mention anyone
+Example:d-pow @DemomanBot]
