@@ -1,0 +1,7 @@
+$title[wake up, she is not real]
+$image[https://www.thiswaifudoesnotexist.net/example-$random[1;10000].jpg]
+$color[$random[11111;99999]]
+$footer[Powered by thiswaifudoesnotexist.net]
+$addTimestamp
+$addCmdReactions[<:command_successfully_executed:797472908678922280>]
+$nomention
