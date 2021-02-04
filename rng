@@ -1,0 +1,9 @@
+$nomention
+$title[Random Number Generator]
+$description[Your number is $random[0;$message]
+Ranged from 0 to $message]
+$footer[d-bug to send bugs]
+$botTyping
+$onlyIf[$message!=;demoOS ERROR
+Reason:You didn't put any number 
+Example:d-rng 69]
