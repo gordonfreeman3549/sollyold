@@ -1,0 +1,11 @@
+$nomention
+$deletecommand
+$color[#f442c8]
+$authorIcon[https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2000px-Google_%22G%22_Logo.svg.png]
+$author[Google Search]
+$description[Search Google... https://www.google.com/search?q=$message
+Search : $message
+Author : $username]
+$footer[Execute the command `d-bug` to send bugs or insults.]
+$onlyIf[$message!=;<:command_is_missing_argument:797421463246209064> Missing an argument, Please put a word. `d-google pornhub`]
+$argsCheck[<1;I see that you put spaces between words, replace them with `+`]
