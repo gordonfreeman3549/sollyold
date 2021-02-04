@@ -1,0 +1,10 @@
+$nomention
+
+$color[$random[111111;999999]]
+
+$mentioned[]
+
+$image[https://vacefron.nl/api/grave?user=$userAvatar[$mentioned[<;yes]]]
+$footer[Execute the command `d-bug` to send bugs or insults.]
+$botTyping
+$addCmdReactions[<:command_successfully_executed:797472908678922280>]
