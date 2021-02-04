@@ -1,0 +1,10 @@
+$title[Embed text]
+$description[$message]
+$footer[Embed Requested By $username]
+$addTimestamp
+$botTyping
+$onlyIf[$message!=;demoOS ERROR
+Reason:You didn't put anything to embed!
+Example:d-embed sex ]
+$nomention 
+$deletecommand
