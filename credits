@@ -1,0 +1,7 @@
+$nomention
+$title[Credits] 
+$color[00FFFF]
+$description[put something idk]
+$footer[Execute the command `d-bug` to send bugs or insults.]
+
+$addCmdReactions[<:command_successfully_executed:797472908678922280>]
