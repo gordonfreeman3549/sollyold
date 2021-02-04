@@ -1,0 +1,10 @@
+$nomention
+$title[$username called a vote.]
+$addReactions[<:bot_vote_tf2_f1:798166588540452876>;<:bot_vote_tf2_f2:798166615061561374>]
+$addTimestamp
+$description[$message]
+$addCmdReactions[<:command_successfully_executed:797472908678922280>] 
+
+$onlyIf[$message!=;<:command_is_missing_argument:797421463246209064> Command is missing an argument. `d-vote Kick Steven?`]
+
+$globalCooldown[5s;<:tf2_bot_cooldown_active:796286435539419156>5 second cooldown is active]
