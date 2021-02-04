@@ -1,0 +1,9 @@
+$title[Horny are we huh? Here is a random picture]
+$image[$randomText[https://cdn.discordapp.com/attachments/803578691070197761/803578834850676756/image0-24.png;https://cdn.discordapp.com/attachments/778691755750064139/799315933063675974/0e09bfab9c9e4ebf344e004f720892ad.png;https://cdn.discordapp.com/attachments/778691755750064139/799369027487137792/xvj77i0z7be31.png;https://cdn.discordapp.com/attachments/778691755750064139/799370104033902672/boner-man-with-gun-and-mask-5846332446dbb.png;https://media.discordapp.net/attachments/778691755750064139/799375901666050079/IMG_20201115_142206.jpg?width=314&height=300;https://media.discordapp.net/attachments/778691755750064139/799375800956092486/2020-12-30_13-58-16.jpg?width=298&height=300;https://media.discordapp.net/attachments/778691755750064139/799375470415446017/image0.png?width=380&height=300;https://media.discordapp.net/attachments/778691755750064139/799375334616334376/hitler.jpg;https://media.discordapp.net/attachments/778691755750064139/799375206069960744/image0-4-2.gif?width=300&height=300;https://media.discordapp.net/attachments/778691755750064139/799374499690446868/demo.jpg?width=400&height=217;https://media.discordapp.net/attachments/778691755750064139/799374679902126090/image0-37.jpg?width=316&height=300;https://media.discordapp.net/attachments/778691755750064139/799374214763249665/IMG_20201121_205347.jpg?width=400&height=300;https://media.discordapp.net/attachments/778691755750064139/799372562986827826/IMG_20210106_205353.jpg?width=233&height=300;https://cdn.discordapp.com/attachments/778691755750064139/799725170704384040/88b.gif]]
+$addTimestamp
+$footerIcon[$authorAvatar]
+$footer[Picked waifu for $username! Execute the command `d-bug` to send bugs or insults.]
+$color[00FFFF]
+$nomention
+$cooldown[5s;<:tf2_bot_cooldown_active:796286435539419156> 5 second cooldown for this command is active]
+$addCmdReactions[<:command_successfully_executed:797472908678922280>]
