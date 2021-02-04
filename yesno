@@ -1,0 +1,8 @@
+$nomention
+$title[Answer Question] 
+$color[00FFFF]
+$description[$username asked: $message
+DemomanBot says: $randomText[Yes; No; Maybe;Why?;Ask that to the bot owner;WTF man... I am not going to answer that...;I cannot answer that...;There is a high chance;There is a low chance].]
+$onlyIf[$message!=;demoOS ERROR
+Reason:You didn't ask a yes/no question 
+Example:d-yesno Should I lewd your mom?]
