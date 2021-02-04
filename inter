@@ -1,0 +1,6 @@
+$nomention
+$title[Sex with someone...]
+$color[00FFFF]
+$description[$username had sex with $message.
+$randomText[⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10% success rate;⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜ 20% success rate;⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ 30% success rate;⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜ 40% success rate;⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜ 50% success rate;⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ 60% success rate;⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 70% success rate;⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 80% success rate;⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ 90% success rate;⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ 100% succes rate;<a:error:803579541926576138> ERROR: Not possible.]]
+$onlyIf[$message!=;give me someone to lewd]
