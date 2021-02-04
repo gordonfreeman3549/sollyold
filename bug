@@ -1,0 +1,8 @@
+You got a random message from $username, and there is id to track them down $authorID 
+$dm[your Discord ID]
+$message 
+$onlyIf[$message!=;demoOS ERROR
+Reason:You didn't type anything lol or if you attached a image, it won't send.
+Example:d-bug stop hosting this bot]
+$addCmdReactions[<:messagesendedtorosa:797440943027650560>]
+$cooldown[30s;<:tf2_bot_cooldown_active:796286435539419156> 30 second cooldown for this command is active]
