@@ -1,0 +1,8 @@
+$nomention
+$title[ERROR]
+$color[00ffff]
+$description[PLEASE CHECK LINE $random[1;300] IN $randomText[Discord;Google;tf2;invite;tfrate;uptime;members;av;Sex;pow;hl;horny;pp;bug;inter;wasted;yesno].js
+
+REASON $randomText[CANNOT EXECUTE;WRONG COMMAND LINE;CANNOT FIND THE CODE;PLEASE GUYS HELP ME, I AM GETTING TORTURED BY ROSA;WHY AM I GIVING THIS MESSAGE TO YOU? YOU ARE NOT THE BOT OWNER;CODE DOESN'T EXIST].]
+
+$footer[ERROR CODE:$random[0000000001;9999999999]]
