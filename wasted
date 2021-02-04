@@ -1,0 +1,9 @@
+$nomention
+
+$argsCheck[1;Please mention someone!]
+$title[WASTED]
+$image[https://some-random-api.ml/canvas/wasted?avatar=$userAvatar[$mentioned[1]]]
+$color[$random[0;9999]]
+$onlyIf[$message!=;demoOS ERROR
+Reason:You didn't mention anyone
+Example:d-wasted @CJ]
